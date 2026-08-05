@@ -2,6 +2,8 @@
   "EmployeeID": 2010115067,
   "EmployeeName":"Durga Kumar",
   "Department" : "IT",
-  "Sub-Demartment":"Integration"
+  "Sub-Demartment":"Integration",
+  "Companies":
+  ["Aspire"]
   
 }]
