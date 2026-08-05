@@ -4,6 +4,7 @@
   "Department" : "IT",
   "Sub-Demartment":"Integration",
   "Companies":
-  ["Aspire"]
+  ["Infotrellis",
+    "Aspire"]
   
 }]
